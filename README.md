@@ -20,7 +20,7 @@ Jupyter Notebook
 
 # 📂 Dataset
 
-The dataset used for this project Mall Customer Segmentation,contains customer information such as:
+The dataset used for this project Mall Customes.csv, contains customer information such as:
 
 Customer ID
 
